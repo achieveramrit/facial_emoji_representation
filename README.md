@@ -26,6 +26,9 @@ It combines Computer Vision and Deep Learning to create an interactive and fun a
 
 ---
 
+📊 Dataset
+
+The model is trained on the FER2013(https://www.kaggle.com/datasets/msambare/fer2013) Dataset, which contains labeled facial expressions such as happy, sad, angry, and surprise.
 ## 📂 Project Structure
 
 ```
